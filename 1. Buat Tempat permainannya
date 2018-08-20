@@ -1,0 +1,39 @@
+1. Buat Tempat permainannya
+2. Pasang Gridlines
+3. Buat server-client architecture
+4. Buat Semut
+5. Gerakkan semut maju mundur dll
+6. Lihat pergerakkan semut
+7. Buat dunianya
+
+buat dunianya
+
+buat grid
+buat camera
+
+buat properti bola
+
+collision bola musuh
+
+u53rD7Pr0duct!ON
+
+{
+    "customer_id": 1,
+    "nik": 123452289,
+    "name": "kevinupdate",
+    "birthplace": "jkt",
+    "birthday": "1994-01-02",
+    "gender": "M",
+    "bloodtype": "A",
+    "address": "klp sawit v",
+    "kelurahan": "klp sawit",
+    "kecamatan": "pulogadung",
+    "city": "jakut",
+    "religion": "Buddha",
+    "tlprumah": "",
+    "tlpkantor": "",
+    "phonenumber": "021 4535946",
+    "imageloc": "kevin.jpg",
+    "shoploc": "Kelapa Gading",
+    "lasttransaction": "2018-08-18"
+}
