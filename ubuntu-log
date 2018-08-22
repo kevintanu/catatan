@@ -1,0 +1,21 @@
+ubuntu software is kinda bugged
+ 
+list of packages
+- git
+- git settings
+- code
+- openvpn
+- setting openvpn
+- network-manager-openvpn-gnome
+- vscode settings
+- php, php-mbstring, php-xml - uninstalled
+- docker-ce, see documentation
+- postman
+- docker sudo groupadd
+- docker-compose, see documentation
+- portainer
+- docker homestead
+- code settings sftp, docker
+- ssh settings
+- composer docker, bashrc
+- php artisan docker, .bashrc
